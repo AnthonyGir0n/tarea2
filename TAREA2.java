@@ -22,7 +22,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author A
+ * @author Anthony Giron
  */
 public class TAREA2 extends javax.swing.JFrame {
 
